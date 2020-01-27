@@ -12,7 +12,8 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "underscore": "^1.9.2"
+    "nib": "^1.1.2",
+    "stylus": "^0.54.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
